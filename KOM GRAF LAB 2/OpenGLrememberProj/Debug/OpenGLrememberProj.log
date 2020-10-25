@@ -1,0 +1,16 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(126,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(126,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(126,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(383,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(396,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(406,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yrik\Desktop\KOM GRAF LAB 1\OpenGLrememberProj\Render.cpp(510,1): warning C4551: в вызове функции отсутствует список аргументов
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\yrik\Desktop\KOM GRAF LAB 1\Debug\OpenGLrememberProj.exe
